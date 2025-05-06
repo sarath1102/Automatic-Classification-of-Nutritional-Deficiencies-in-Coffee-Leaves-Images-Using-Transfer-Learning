@@ -4,12 +4,9 @@ The focus of this study is on the automatic detection of nutritional deficiencie
 
 
 
-All of the datasets are available in " https://data.mendeley.com/datasets/yy2k5y8mxg/1 " within this repository inside `./src/Datasets` directory and all python scripts within the `./src` directory are reusing this local dataset.
+All of the datasets are available within this repository inside `./src/Datasets` directory and all python scripts within the `./src` directory are reusing this local dataset.
 
 
-
-
-https://data.mendeley.com/datasets/yy2k5y8mxg/1
 ## Instructions for Executing the Code
 
 
