@@ -54,3 +54,10 @@ The image below illustrates the pipeline used in this study — from data prepro
 ![Flowchart of Proposed Work](https://raw.githubusercontent.com/sarath1102/Automatic-Classification-of-Nutritional-Deficiencies-in-Coffee-Leaves-Images-Using-Transfer-Learning/main/flowchart.png)
 
 
+## Future Work
+Expand classification to all 8 deficiencies in CoLeaf V2.0
+
+Use GANs for synthetic image generation
+
+Explore ensemble learning with multiple CNNs
+
