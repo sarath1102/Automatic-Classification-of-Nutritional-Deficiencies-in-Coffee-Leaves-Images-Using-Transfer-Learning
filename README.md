@@ -47,5 +47,10 @@ Dataset: **CoLeaf Dataset V2.0**, 1006 annotated leaf images.
 
 
 
-## 📊 Flowchart of Proposed Work
+## Flowchart of Proposed Work
+
+The image below illustrates the pipeline used in this study — from data preprocessing to classification using transfer learning:
+
+![Flowchart of Proposed Work](https://raw.githubusercontent.com/sarath1102/Automatic-Classification-of-Nutritional-Deficiencies-in-Coffee-Leaves-Images-Using-Transfer-Learning/main/flowchart.png)
+
 
