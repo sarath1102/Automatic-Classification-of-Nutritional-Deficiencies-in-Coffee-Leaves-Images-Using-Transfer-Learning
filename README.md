@@ -1,4 +1,4 @@
-# Automatic-Classification-of-Nutritional-Deficiencies-in-Coffee-Leaves-Images-Using-Transfer-Learning
+# Automatic Classification of Nutritional Deficiencies in Coffee Leaves Images Using Transfer Learning
 
 
 The focus of this study is on the **automatic detection of nutritional deficiencies** such as **Potassium, Boron, Calcium, and Iron** in coffee plants using **transfer learning techniques** — MobileNetV2, InceptionV3, VGG19, EfficientNetV2, and ResNet50 — and **data augmentation strategies**, using image data from the **CoLeaf Dataset V2.0**.  
